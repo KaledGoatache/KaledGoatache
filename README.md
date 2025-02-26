@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Kaled 👋</h1>
+<h1 align="center">Welcome, I'm Kaled</h1>
 
 ###  🌱 Interested in
 **Financial Modeling & Econometrics** | **Data Science & ML for Finance** | **Algorithmic Trading**
